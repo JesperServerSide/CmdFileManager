@@ -1,0 +1,15 @@
+How do I use CmdFileManager?
+
+Once you downloaded CmdFileManager, either add it's folder to PATH or put the CmdFileManager.exe into System32.
+For those who do not know, System32 is located in C:\Windows\System32.
+
+After you added CmdFileManager to path or put it in System32, open Command prompt and type:
+CmdFileManager
+You can also write it without capital letters or in all capital letters.
+CMDFILEMANAGER
+cmdfilemanager
+
+or
+cmDfilemanager (anything saying cmdfilemanager works.)
+
+And there you have it. Enjoy using it.
